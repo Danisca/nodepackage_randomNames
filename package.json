@@ -1,0 +1,20 @@
+{
+  "name": "gestion_npm_denpendencies",
+  "version": "1.0.0",
+  "description": "paquete para practicar npm y luego subirlo a npm online",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "node",
+    "npm"
+  ],
+  "author": "Danis",
+  "license": "MIT",
+  "bin": {
+    "random-names": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
